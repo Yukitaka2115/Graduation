@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Testapk</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title">红绿灯识别</string>
+    <string name="button">选择</string>
+	<string name="detect">识别</string>
+</resources>
